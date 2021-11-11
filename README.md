@@ -8,12 +8,11 @@
 <p align="center">
  
 ## install
-```bash
+```rust
 
 $ apt update
 $ apt full-upgrade
 $ apt install git
-$ apt install tput
 $ apt install ncurses-utils
 $ git clone https://github.com/COINTER-team/stopwatch
 $ cd stopwatch
