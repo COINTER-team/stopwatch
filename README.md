@@ -8,7 +8,7 @@
 <p align="center">
  
 ## install
-```c
+```lua
 
 $ apt update
 $ apt full-upgrade
