@@ -27,8 +27,8 @@ $ bash hitung.sh
 ## Team
 ```php
  COINTER-TEAM
- helixs-crew
+ Helixs-crew
 ```
 
 > Jangan lupa subscribe tod
-> recode gpp open source :v
+> script ini saya buat open source :v
