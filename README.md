@@ -8,7 +8,7 @@
 <p align="center">
  
 ## install
-```bat
+```c
 
 $ apt update
 $ apt full-upgrade
