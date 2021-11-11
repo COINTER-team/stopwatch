@@ -8,7 +8,7 @@
 <p align="center">
  
 ## install
-```vbscript
+```bat
 
 $ apt update
 $ apt full-upgrade
