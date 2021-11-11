@@ -8,7 +8,7 @@
 <p align="center">
  
 ## install
-```rust
+```vbscript
 
 $ apt update
 $ apt full-upgrade
